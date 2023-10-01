@@ -1,5 +1,6 @@
 # Child Safety Monitoring App
 
+*CLICK ON THE IMAGE FOR THE DEMONSTRATION VIDEO*
 [![Project Video Link](IMG_7942.jpg)](https://youtu.be/_PTEDfMFPOw)
 
 ## **Objectives of the App**
